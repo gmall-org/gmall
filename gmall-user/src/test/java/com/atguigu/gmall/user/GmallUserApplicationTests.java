@@ -1,12 +1,12 @@
 package com.atguigu.gmall.user;
 
-import org.junit.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+//import org.junit.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class GmallUserApplicationTests {
 
-    @Test
+   // @Test
     void contextLoads() {
     }
 
